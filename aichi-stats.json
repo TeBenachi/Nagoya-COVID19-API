@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "place": "miyoshi",
+        "displayName": "Miyoshi",
+        "areas": [],
+        "totalConfirmed": 1,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 34.811240,
+        "long": 132.847510
+    },
+    {
+        "id": 2,
+        "place": "ichinomiya",
+        "displayName": "Ichinomiya",
+        "areas": [],
+        "totalConfirmed": 4,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 35.302952,
+        "long": 136.798294
+    },
+    {
+        "id": 3,
+        "place": "mikawa",
+        "displayName": "Mikawa",
+        "areas": [],
+        "totalConfirmed": 5,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 36.488020,
+        "long": 136.486250
+    },
+    {
+        "id": 4,
+        "place": "handa",
+        "displayName": "Handa",
+        "areas": [],
+        "totalConfirmed": 2,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 34.891910,
+        "long": 136.927560
+    },
+    {
+        "id": 5,
+        "place": "nagoya",
+        "displayName": "Nagoya",
+        "areas": [],
+        "totalConfirmed": 113,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 35.156940,
+        "long": 136.913055
+    },
+    {
+        "id": 6,
+        "place": "owari",
+        "displayName": "Owari",
+        "areas": [],
+        "totalConfirmed": 11,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 35.3022,
+        "long": 136.8015
+    },
+    {
+        "id": 7,
+        "place": "okazaki",
+        "displayName": "Okazaki",
+        "areas": [],
+        "totalConfirmed": 3,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 34.950974,
+        "long": 137.260842
+    },
+    {
+        "id": 8,
+        "place": "kasugai",
+        "displayName": "Kasugai",
+        "areas": [],
+        "totalConfirmed": 4,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 35.273804,
+        "long": 137.007459
+    },
+    {
+        "id": 9,
+        "place": "kounan",
+        "displayName": "Kounan",
+        "areas": [],
+        "totalConfirmed": 1,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 35.344508,
+        "long": 136.866742
+    },
+    {
+        "id": 10,
+        "place": "kiyoshu",
+        "displayName": "Kiyosu",
+        "areas": [],
+        "totalConfirmed": 1,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 35.21595,
+        "long": 136.845107
+    },
+    {
+        "id": 11,
+        "place": "inuyama",
+        "displayName": "Inuyama",
+        "areas": [],
+        "totalConfirmed": 1,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 35.3609734,
+        "long": 136.9845491
+    },
+    {
+        "id": 12,
+        "place": "chita",
+        "displayName": "Chita",
+        "areas": [],
+        "totalConfirmed": 2,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 34.970089,
+        "long": 136.860738
+    },
+    {
+        "id": 13,
+        "place": "chita taketoyo",
+        "displayName": "Chita Taketoyo",
+        "areas": [],
+        "totalConfirmed": 1,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 34.8507339,
+        "long": 136.9165764
+    },
+    {
+        "id": 14,
+        "place": "inazawa",
+        "displayName": "Inazawa",
+        "areas": [],
+        "totalConfirmed": 3,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 35.240484,
+        "long": 136.758964
+    },
+    {
+        "id": 15,
+        "place": "toyokawa",
+        "displayName": "Toyokawa",
+        "areas": [],
+        "totalConfirmed": 1,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 34.827644,
+        "long": 137.378586
+    },
+    {
+        "id": 16,
+        "place": "toyota",
+        "displayName": "Toyota",
+        "areas": [],
+        "totalConfirmed": 1,
+        "totalDeaths": null,
+        "totalRecovered": null,
+        "lat": 35.15195,
+        "long": 137.301478
+    }
+]
